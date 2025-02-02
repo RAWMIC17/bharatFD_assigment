@@ -33,3 +33,12 @@ A multilingual FAQ management API built using Django.
   3.  Commit your changes (git commit -m 'feat: added new feature').
   4.  Push to your branch (git push origin feature-branch).
   5.  Open a pull request.
+
+## ScreenShots:-
+
+![login](https://github.com/user-attachments/assets/45cc4c35-dcab-4ed7-8a3d-f82a15fd1ac3)
+![home](https://github.com/user-attachments/assets/2e0002d8-507a-424a-ac06-fc54843e8621)
+![faq](https://github.com/user-attachments/assets/5dc092d3-6eab-4ab0-8062-66bd52d85ea3)
+
+
+
